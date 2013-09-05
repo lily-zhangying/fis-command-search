@@ -1,0 +1,15 @@
+{
+  "name": "fis-command-search",
+  "version": "0.0.0",
+  "description": "fis-command-search",
+  "main": "search.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fis",
+    "fis-command-search"
+  ],
+  "author": "lily-zhangying",
+  "license": "BSD"
+}
